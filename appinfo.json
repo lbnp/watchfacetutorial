@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "kamoshima@gmail.com",
+    "longName": "tutorial 1",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "tutorial 1",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "0789f573-a9c9-4317-9dfa-c9ce03c86e01",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
